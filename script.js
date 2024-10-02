@@ -41,7 +41,7 @@ function main(){
 	console.log(`O Herói tem de saldo de ${winningBalance} e está no nível de ${resultStatus}`)	
 }
 
-
+main()
 
 
 
